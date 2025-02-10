@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mohammad Harouak, computer science student at Al Akhawayn University, in Ifrane.
-- 👀 I’m interested in web development and machine learning.
+- 👋 Hi, I’m Mohammad Harouak, and I hold a bachelor's in computer science from Al Akhawayn University, in Ifrane.
+- 👀 I’m interested in software and data engineering.
 - 🌱 I’m currently a project manager for neoCedrus.
-- 💞️ I’m looking to collaborate on any project you have in mind if it fits my vision.
 - 📫 Reach me through email: m.harouak@aui.ma || phone number: +212 639 333 263
 
 <!---
